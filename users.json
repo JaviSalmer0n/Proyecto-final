@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1762637498,
+        "username": "Diego",
+        "email": "xxchappi@gmail.com",
+        "password": "$2y$10$Pc\/j1EgZZ5ThjHTv5hE8F.XWE8bVkaRTdRncuk4o5GX.RaV5D84EG",
+        "created_at": "2025-11-08T22:31:38+01:00"
+    },
+    {
+        "id": 1762640017,
+        "username": "juan",
+        "email": "juan@gmail.com",
+        "password": "$2y$10$umH0YsOL5f2VRzGHjg.aB.2t3R2ia1tgbU3waAb\/1uU8BBqqvlvpW",
+        "created_at": "2025-11-08T23:13:37+01:00"
+    },
+    {
+        "id": 1762640980,
+        "username": "julian",
+        "email": "juligei@gmail.com",
+        "password": "$2y$10$sqUFkp4tNFyUY6iDYN0LFuQiu9F9CfcKYtd.gP6MHFjFb7vUKz1JO",
+        "created_at": "2025-11-08T23:29:40+01:00"
+    },
+    {
+        "id": 1762782262,
+        "username": "erick",
+        "email": "erick@gmail.com",
+        "password": "$2y$10$qNyZmTEF5XeG.H.hsKrJmehWXYMqBbr2a6mqnSRy\/BtDEoGub.0Qa",
+        "created_at": "2025-11-10T14:44:22+01:00"
+    }
+]

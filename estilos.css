@@ -1,0 +1,18 @@
+/* estilos.css (carpeta y archivo con el mismo nombre: estilos.css/estilos.css)
+   CSS mínimo para presentación "nivel estudiante".
+   Si aún no ven CSS, puedes reducirlo más o quitarlo.
+*/
+
+body { font-family: Arial, sans-serif; margin:20px; background:#111; color:#eee; }
+.box { max-width:420px; margin:0 auto; border:1px solid #333; padding:12px; border-radius:8px; background:#1a1a1a; }
+h1 { text-align:center; margin:6px 0 12px; }
+.links { text-align:center; margin:10px 0; }
+.links a { color:#9db1ff; text-decoration:none; margin:0 6px; }
+label { display:block; margin-top:8px; font-size:14px; }
+input, button { width:100%; padding:8px; margin-top:4px; border:1px solid #333; border-radius:6px; background:#111; color:#eee; }
+button.primary { background:#4c63ff; border:none; cursor:pointer; }
+button.primary:hover { background:#3e53d4; }
+.msg { padding:6px; border-radius:6px; margin:8px 0; font-size:14px; }
+.error { background:#3b0f0f; color:#ffd6d6; }
+.ok { background:#0f3b1f; color:#caffd6; }
+.water { text-align:center; margin-top:10px; font-size:12px; color:#aaa; }
